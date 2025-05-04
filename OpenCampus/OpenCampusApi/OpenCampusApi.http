@@ -1,0 +1,6 @@
+@OpenCampusApi_HostAddress = http://localhost:5241
+
+GET {{OpenCampusApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

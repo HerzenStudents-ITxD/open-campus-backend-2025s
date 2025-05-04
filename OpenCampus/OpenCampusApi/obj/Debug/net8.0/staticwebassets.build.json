@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CJX623uga5ShYjzdxziwGfSfgnu6faWhDBxy6WWRAFM=",
+  "Source": "OpenCampusApi",
+  "BasePath": "_content/OpenCampusApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
