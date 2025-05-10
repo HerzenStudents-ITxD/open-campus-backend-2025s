@@ -3,10 +3,8 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// 1. Подтяни строку подключения
 var conn = builder.Configuration.GetConnectionString("DefaultConnection");
 
-// 2. Зарегистрируй DbContext _до_ builder.Build()
 builder.Services.AddDbContext<ApplicationDbContext>(opt =>
     opt.UseSqlServer(conn));
 
@@ -34,6 +32,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();  // HTTP ? HTTPS
+app.UseStaticFiles();
 app.UseRouting();
 app.UseCors();
 app.UseAuthorization();

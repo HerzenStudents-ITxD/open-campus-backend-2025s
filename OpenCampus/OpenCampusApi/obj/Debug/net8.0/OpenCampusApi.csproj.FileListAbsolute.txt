@@ -169,3 +169,5 @@ D:\open-campus-backend-2025s\OpenCampus\OpenCampusApi\obj\Debug\net8.0\refint\Op
 D:\open-campus-backend-2025s\OpenCampus\OpenCampusApi\obj\Debug\net8.0\OpenCampusApi.pdb
 D:\open-campus-backend-2025s\OpenCampus\OpenCampusApi\obj\Debug\net8.0\OpenCampusApi.genruntimeconfig.cache
 D:\open-campus-backend-2025s\OpenCampus\OpenCampusApi\obj\Debug\net8.0\ref\OpenCampusApi.dll
+D:\open-campus-backend-2025s\OpenCampus\OpenCampusApi\obj\Debug\net8.0\OpenCampusApi.sourcelink.json
+D:\open-campus-backend-2025s\OpenCampus\OpenCampusApi\bin\Debug\net8.0\OpenCampusApi.staticwebassets.runtime.json

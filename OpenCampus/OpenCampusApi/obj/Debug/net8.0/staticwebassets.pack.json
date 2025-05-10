@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\wwwroot\\uploads\\1.png",
+      "PackagePath": "staticwebassets\\uploads\\1.png"
+    },
+    {
+      "Id": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\wwwroot\\uploads\\2.png",
+      "PackagePath": "staticwebassets\\uploads\\2.png"
+    },
+    {
+      "Id": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\wwwroot\\uploads\\Untitled.png",
+      "PackagePath": "staticwebassets\\uploads\\Untitled.png"
+    },
+    {
+      "Id": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\wwwroot\\uploads\\image 1.png",
+      "PackagePath": "staticwebassets\\uploads\\image 1.png"
+    },
+    {
+      "Id": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\wwwroot\\uploads\\meme.jpeg",
+      "PackagePath": "staticwebassets\\uploads\\meme.jpeg"
+    },
+    {
+      "Id": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\wwwroot\\uploads\\Снимок экрана 2025-04-17 194309-Photoroom.png",
+      "PackagePath": "staticwebassets\\uploads\\Снимок экрана 2025-04-17 194309-Photoroom.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OpenCampusApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OpenCampusApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OpenCampusApi.props",
+      "PackagePath": "build\\OpenCampusApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OpenCampusApi.props",
+      "PackagePath": "buildMultiTargeting\\OpenCampusApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OpenCampusApi.props",
+      "PackagePath": "buildTransitive\\OpenCampusApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

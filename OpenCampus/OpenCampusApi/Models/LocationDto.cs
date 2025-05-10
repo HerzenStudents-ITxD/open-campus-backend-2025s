@@ -1,9 +1,8 @@
-﻿namespace OpenCampus.Models
+﻿public class LocationDto
 {
-    public class LocationDto
-    {
-        public string Name { get; set; } = string.Empty;
-        public string Description { get; set; } = string.Empty;
-        public int Capacity { get; set; }
-    }
+    public required string Name { get; set; }
+    public required string Description { get; set; }
+    public required int Capacity { get; set; }
+
+    public IFormFile? Image { get; set; } // ✅ теперь необязательно
 }
