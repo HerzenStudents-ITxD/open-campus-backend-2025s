@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "D:\\open-campus-backend-2025s\\OpenCampus\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\models\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\models\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\models\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\models\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\models\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\models\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\controllers\\locationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\models\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\models\\locationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -25,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\opencampusapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\opencampusapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|d:\\open-campus-backend-2025s\\opencampus\\opencampusapi\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{484DC746-6F6E-4A47-BF9C-E35C62194E2C}|OpenCampusApi\\OpenCampusApi.csproj|solutionrelative:opencampusapi\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +66,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventDto.cs",
+              "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Models\\EventDto.cs",
+              "RelativeDocumentMoniker": "OpenCampusApi\\Models\\EventDto.cs",
+              "ToolTip": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Models\\EventDto.cs",
+              "RelativeToolTip": "OpenCampusApi\\Models\\EventDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:48:50.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "OpenCampusApi\\Controllers\\EventController.cs",
+              "ToolTip": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Controllers\\EventController.cs",
+              "RelativeToolTip": "OpenCampusApi\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:48:24.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "OpenCampusApi\\Models\\Event.cs",
+              "ToolTip": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Models\\Event.cs",
+              "RelativeToolTip": "OpenCampusApi\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T17:45:03.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChangePasswordDto.cs",
+              "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Models\\ChangePasswordDto.cs",
+              "RelativeDocumentMoniker": "OpenCampusApi\\Models\\ChangePasswordDto.cs",
+              "ToolTip": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Models\\ChangePasswordDto.cs",
+              "RelativeToolTip": "OpenCampusApi\\Models\\ChangePasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:49:38.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "OpenCampusApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "OpenCampusApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:02:11.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "LocationDto.cs",
               "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Models\\LocationDto.cs",
               "RelativeDocumentMoniker": "OpenCampusApi\\Models\\LocationDto.cs",
@@ -55,43 +148,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Program.cs",
-              "RelativeDocumentMoniker": "OpenCampusApi\\Program.cs",
-              "ToolTip": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Program.cs",
-              "RelativeToolTip": "OpenCampusApi\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "OpenCampusApi\\Controllers\\LocationController.cs",
+              "ToolTip": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "OpenCampusApi\\Controllers\\LocationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T16:07:30.315Z"
+              "WhenOpened": "2025-05-04T15:56:23.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "OpenCampusApi\\Models\\UserDto.cs",
+              "ToolTip": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Models\\UserDto.cs",
+              "RelativeToolTip": "OpenCampusApi\\Models\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:48:58.459Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\appsettings.json",
-              "RelativeDocumentMoniker": "OpenCampusApi\\appsettings.json",
-              "ToolTip": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\appsettings.json",
-              "RelativeToolTip": "OpenCampusApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-04T16:05:29.065Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "OpenCampusApi\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "OpenCampusApi\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "OpenCampusApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "OpenCampusApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T16:02:11.827Z"
+              "WhenOpened": "2025-05-13T16:47:56.813Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "OpenCampusApi\\Models\\User.cs",
+              "ToolTip": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Models\\User.cs",
+              "RelativeToolTip": "OpenCampusApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:45:21.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Location.cs",
               "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Models\\Location.cs",
               "RelativeDocumentMoniker": "OpenCampusApi\\Models\\Location.cs",
@@ -99,24 +208,37 @@
               "RelativeToolTip": "OpenCampusApi\\Models\\Location.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T16:00:46.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LocationController.cs",
-              "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Controllers\\LocationController.cs",
-              "RelativeDocumentMoniker": "OpenCampusApi\\Controllers\\LocationController.cs",
-              "ToolTip": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Controllers\\LocationController.cs",
-              "RelativeToolTip": "OpenCampusApi\\Controllers\\LocationController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAkwEgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T15:56:23.755Z",
+              "WhenOpened": "2025-05-04T16:00:46.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Program.cs",
+              "RelativeDocumentMoniker": "OpenCampusApi\\Program.cs",
+              "ToolTip": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\Program.cs",
+              "RelativeToolTip": "OpenCampusApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:07:30.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\appsettings.json",
+              "RelativeDocumentMoniker": "OpenCampusApi\\appsettings.json",
+              "ToolTip": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\appsettings.json",
+              "RelativeToolTip": "OpenCampusApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-04T16:05:29.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "OpenCampusApi.csproj",
               "DocumentMoniker": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\OpenCampusApi.csproj",
               "RelativeDocumentMoniker": "OpenCampusApi\\OpenCampusApi.csproj",

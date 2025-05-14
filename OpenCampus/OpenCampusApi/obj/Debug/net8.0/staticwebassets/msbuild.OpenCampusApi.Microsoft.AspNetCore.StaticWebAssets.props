@@ -18,6 +18,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\19b0f00a-c9ad-4e92-b3a0-71c6964cde0c_drawSQL-image-export-2025-05-12.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>OpenCampusApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/OpenCampusApi</BasePath>
+      <RelativePath>uploads/19b0f00a-c9ad-4e92-b3a0-71c6964cde0c_drawSQL-image-export-2025-05-12.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>a36yqlf9k1</Fingerprint>
+      <Integrity>VlGMm5KQ/MUSEJ9kNq5eu1treB7tmxPwtXPIGl1qZIk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\19b0f00a-c9ad-4e92-b3a0-71c6964cde0c_drawSQL-image-export-2025-05-12.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2.png'))">
       <SourceType>Package</SourceType>
       <SourceId>OpenCampusApi</SourceId>
@@ -36,6 +54,60 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\aedf4a76-a77d-4589-ba81-c0d0c3ee19d6_image 1.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>OpenCampusApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/OpenCampusApi</BasePath>
+      <RelativePath>uploads/aedf4a76-a77d-4589-ba81-c0d0c3ee19d6_image 1.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>3atpfovfhg</Fingerprint>
+      <Integrity>hSB0kx/SLda0GdKdGPhORfpy2CNPMtLP71oiCeFslJ4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\aedf4a76-a77d-4589-ba81-c0d0c3ee19d6_image 1.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d7f187a8-47a8-475e-a598-8cdcb0843746_image 1.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>OpenCampusApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/OpenCampusApi</BasePath>
+      <RelativePath>uploads/d7f187a8-47a8-475e-a598-8cdcb0843746_image 1.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>3atpfovfhg</Fingerprint>
+      <Integrity>hSB0kx/SLda0GdKdGPhORfpy2CNPMtLP71oiCeFslJ4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d7f187a8-47a8-475e-a598-8cdcb0843746_image 1.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\drawSQL-image-export-2025-05-12.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>OpenCampusApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/OpenCampusApi</BasePath>
+      <RelativePath>uploads/drawSQL-image-export-2025-05-12.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>a36yqlf9k1</Fingerprint>
+      <Integrity>VlGMm5KQ/MUSEJ9kNq5eu1treB7tmxPwtXPIGl1qZIk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\drawSQL-image-export-2025-05-12.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image 1.png'))">
       <SourceType>Package</SourceType>
       <SourceId>OpenCampusApi</SourceId>
@@ -48,8 +120,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>9pld1e3cgs</Fingerprint>
-      <Integrity>44d/mdDAH3CLn1OMNXx1eFMKhvAc45olioiPjpCzYfc=</Integrity>
+      <Fingerprint>3atpfovfhg</Fingerprint>
+      <Integrity>hSB0kx/SLda0GdKdGPhORfpy2CNPMtLP71oiCeFslJ4=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\image 1.png'))</OriginalItemSpec>
@@ -71,6 +143,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\meme.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\open_campus_er_diagram.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>OpenCampusApi</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/OpenCampusApi</BasePath>
+      <RelativePath>uploads/open_campus_er_diagram.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>uh6zdzt3zp</Fingerprint>
+      <Integrity>ojRBd8y8ilVzNxQrvEibDKcLZwFYkUhQ+BXwb1WYeP8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\open_campus_er_diagram.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\Untitled.png'))">
       <SourceType>Package</SourceType>

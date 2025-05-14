@@ -9,7 +9,9 @@ namespace OpenCampus.Data
         public ApplicationDbContext(DbContextOptions options) : base(options) { }
 
         public DbSet<Location> Locations { get; set; }
-        // сюда же позже добавишь News, Events и т.д.
+        public DbSet<User> Users { get; set; }
+        public DbSet<Event> Events { get; set; }
+
     }
 }
 
