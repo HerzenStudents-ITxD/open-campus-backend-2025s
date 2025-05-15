@@ -2,6 +2,11 @@
 
 namespace OpenCampus.Models
 {
+    public enum UserRole
+    {
+        Visitor,
+        Editor
+    }
     public class User
     {
         public Guid Id { get; set; }
@@ -18,6 +23,9 @@ namespace OpenCampus.Models
 
         [Required]
         public string PasswordHash { get; set; } = "";
+        
+        [Required]
+        public UserRole Role { get; set; } = UserRole.Visitor;
     }
 }
 

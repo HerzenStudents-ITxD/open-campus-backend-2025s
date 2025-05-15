@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SKm3JejVKS3mCORbqShdAFNZAYr08GwlbmmqnXZ3AXc=",
+  "Hash": "tQ7b1yLuo4hAdpZaApsViiNfsP6/IOoACIEEQ9cvdt4=",
   "Source": "OpenCampusApi",
   "BasePath": "_content/OpenCampusApi",
   "Mode": "Default",
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\2.png"
+    },
+    {
+      "Identity": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\wwwroot\\uploads\\2fb18aa6-2b97-43a3-8e5a-2e8d2594e2ed_drawSQL-image-export-2025-05-12.png",
+      "SourceId": "OpenCampusApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\wwwroot\\",
+      "BasePath": "_content/OpenCampusApi",
+      "RelativePath": "uploads/2fb18aa6-2b97-43a3-8e5a-2e8d2594e2ed_drawSQL-image-export-2025-05-12#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a36yqlf9k1",
+      "Integrity": "VlGMm5KQ/MUSEJ9kNq5eu1treB7tmxPwtXPIGl1qZIk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2fb18aa6-2b97-43a3-8e5a-2e8d2594e2ed_drawSQL-image-export-2025-05-12.png"
     },
     {
       "Identity": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\wwwroot\\uploads\\Снимок экрана 2025-04-17 194309-Photoroom.png",
@@ -492,6 +513,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-1cFkKzre39YjAKyq7LOWeQa+d6Gy7EzFvQvYIlwkzpw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2fb18aa6-2b97-43a3-8e5a-2e8d2594e2ed_drawSQL-image-export-2025-05-12.a36yqlf9k1.png",
+      "AssetFile": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\wwwroot\\uploads\\2fb18aa6-2b97-43a3-8e5a-2e8d2594e2ed_drawSQL-image-export-2025-05-12.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "781221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VlGMm5KQ/MUSEJ9kNq5eu1treB7tmxPwtXPIGl1qZIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a36yqlf9k1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/2fb18aa6-2b97-43a3-8e5a-2e8d2594e2ed_drawSQL-image-export-2025-05-12.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VlGMm5KQ/MUSEJ9kNq5eu1treB7tmxPwtXPIGl1qZIk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2fb18aa6-2b97-43a3-8e5a-2e8d2594e2ed_drawSQL-image-export-2025-05-12.png",
+      "AssetFile": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\wwwroot\\uploads\\2fb18aa6-2b97-43a3-8e5a-2e8d2594e2ed_drawSQL-image-export-2025-05-12.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "781221"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VlGMm5KQ/MUSEJ9kNq5eu1treB7tmxPwtXPIGl1qZIk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 18:02:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VlGMm5KQ/MUSEJ9kNq5eu1treB7tmxPwtXPIGl1qZIk="
         }
       ]
     },
