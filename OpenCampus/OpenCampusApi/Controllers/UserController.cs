@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using OpenCampus.Data;
 using OpenCampus.Models;
 
@@ -68,5 +69,52 @@ public class UserController : ControllerBase
         user.PasswordHash = dto.NewPassword;
         _context.SaveChanges();
         return Ok("Пароль успешно изменён");
+    }
+
+
+    //добавила метод для входа post/api/User/login
+    [HttpPost("login")]
+    public async Task<IActionResult> Login([FromBody] LoginDto loginDto)
+    {
+        var user = await _context.Users
+            .FirstOrDefaultAsync(u => u.Name == loginDto.FullName);
+
+        if (user == null || user.PasswordHash != loginDto.Password)
+            return Unauthorized("Неверное имя или пароль");
+
+        // ⚠️ Здесь можно сгенерировать JWT-токен. Временно возвращаем user Id.
+        return Ok(new
+        {
+            token = "FAKE_TOKEN", // Замени на настоящий токен позже
+            userId = user.Id,
+            fullName = user.Name
+        });
+    }
+
+
+    //добавила метод для регистрации post/api/User
+    [HttpPost]
+    public async Task<IActionResult> Register([FromBody] RegisterDto registerDto)
+    {
+        if (string.IsNullOrEmpty(registerDto.FullName) || string.IsNullOrEmpty(registerDto.Password))
+            return BadRequest("Имя и пароль обязательны");
+
+        var existingUser = await _context.Users
+            .FirstOrDefaultAsync(u => u.Name == registerDto.FullName);
+        if (existingUser != null)
+            return BadRequest("Пользователь с таким именем уже существует");
+
+        var user = new User
+        {
+            Id = Guid.NewGuid(),
+            Name = registerDto.FullName,
+            PasswordHash = registerDto.Password, // для безопасности лучше захешировать
+                                                 // Можно заполнить другие поля по необходимости
+        };
+
+        _context.Users.Add(user);
+        await _context.SaveChangesAsync();
+
+        return Ok(new { user.Id, user.Name });
     }
 }

@@ -5139,19 +5139,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kuril\\.nuget\\packages\\": {}
+    "C:\\Users\\Pokemon's\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\OpenCampusApi.csproj",
+      "projectUniqueName": "C:\\Users\\Pokemon's\\Documents\\GitHub\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\OpenCampusApi.csproj",
       "projectName": "OpenCampusApi",
-      "projectPath": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\OpenCampusApi.csproj",
-      "packagesPath": "C:\\Users\\kuril\\.nuget\\packages\\",
-      "outputPath": "D:\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\obj\\",
+      "projectPath": "C:\\Users\\Pokemon's\\Documents\\GitHub\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\OpenCampusApi.csproj",
+      "packagesPath": "C:\\Users\\Pokemon's\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pokemon's\\Documents\\GitHub\\open-campus-backend-2025s\\OpenCampus\\OpenCampusApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\kuril\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pokemon's\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5177,8 +5177,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -5214,24 +5213,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[8.0.14, 8.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[8.0.14, 8.0.14]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[8.0.14, 8.0.14]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[8.0.14, 8.0.14]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -5240,7 +5221,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
