@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenCampusApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbe3fcdb8906147b730c9ac4e6cf672a0c3a889c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6a280ac560b904e204044dde0bf51eca71c256c")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenCampusApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenCampusApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
