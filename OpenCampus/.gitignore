@@ -1,0 +1,21 @@
+OpenCampusApi/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+*.log
+
+# Temporary files
+*.tmp
+*.cache
+*.db
+
+# Auto-generated
+*.sln.docstates
+*.swp
+*.DS_Store

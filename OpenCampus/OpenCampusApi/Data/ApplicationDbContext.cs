@@ -11,6 +11,9 @@ namespace OpenCampus.Data
         public DbSet<Location> Locations { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<Event> Events { get; set; }
+        public DbSet<Booking> Bookings { get; set; }
+        public DbSet<News> News { get; set; }
+
 
     }
 }
