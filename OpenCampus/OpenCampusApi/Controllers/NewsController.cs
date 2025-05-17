@@ -60,7 +60,7 @@ public class NewsController : ControllerBase
             ImagePath = imagePath,
             PublishedAt = DateTime.UtcNow,
             IsPublished = dto.IsPublished,
-            UserId = dto.UserId
+            UserId = new Guid("40E5D842-CAF4-4A20-9F19-EA0FAB876797")
         };
 
         _context.News.Add(news);
@@ -103,4 +103,6 @@ public class NewsController : ControllerBase
         return NoContent();
     }
 }
+
+
 
