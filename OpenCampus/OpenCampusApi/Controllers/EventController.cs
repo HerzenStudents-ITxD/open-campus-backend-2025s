@@ -94,15 +94,47 @@ public class EventController : ControllerBase
         return CreatedAtAction(nameof(Get), new { id = eventItem.Id }, eventItem);
     }
 
-    // Удалить мероприятие
+    public class DeleteEventDto
+    {
+        public string Reason { get; set; }
+    }
+
     [HttpDelete("{id}")]
-    public IActionResult Delete(Guid id)
+    public IActionResult Delete(Guid id, [FromBody] DeleteEventDto dto)
     {
         var eventItem = _context.Events.Find(id);
         if (eventItem == null) return NotFound();
+
+        // Можно логировать dto.Reason, если нужно
+        Console.WriteLine($"Удаление мероприятия: {id}, причина: {dto.Reason}");
 
         _context.Events.Remove(eventItem);
         _context.SaveChanges();
         return NoContent();
     }
+
+    // Получить список всех мероприятий
+    [HttpGet]
+    public IActionResult GetAll()
+    {
+        var events = _context.Events
+            .OrderByDescending(e => e.Date)
+            .Select(e => new
+            {
+                e.Id,
+                e.Title,
+                e.Description,
+                e.Date,
+                e.Location,
+                e.Organizer,
+                Image = e.ImagePath,
+                e.CreatedAt,
+                e.CreatedBy
+            })
+            .ToList();
+
+        return Ok(events);
+    }
+
 }
+

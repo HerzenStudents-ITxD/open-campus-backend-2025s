@@ -1,6 +1,16 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using OpenCampus.Data;
 using Microsoft.EntityFrameworkCore;
+using OpenCampus.Models;
+
+public class BookingDto
+{
+    public string UserId { get; set; } = "";
+    public int LocationId { get; set; }
+    public DateTime DateStart { get; set; }
+    public DateTime DateEnd { get; set; }
+    public string Purpose { get; set; } = "";
+}
 
 [ApiController]
 [Route("api/[controller]")]
@@ -32,5 +42,26 @@ public class BookingController : ControllerBase
 
         return Ok(bookings);
     }
-}
 
+    [HttpPost]
+    public async Task<IActionResult> Create([FromBody] BookingDto dto)
+    {
+        if (dto == null)
+            return BadRequest("Данные не переданы");
+
+        var booking = new Booking
+        {
+            UserId = dto.UserId,
+            LocationId = dto.LocationId,
+            DateStart = dto.DateStart,
+            DateEnd = dto.DateEnd,
+            Purpose = dto.Purpose,
+            Status = "Ожидает",
+        };
+
+        _context.Bookings.Add(booking);
+        await _context.SaveChangesAsync();
+
+        return Ok(new { message = "Бронирование успешно создано" });
+    }
+}
